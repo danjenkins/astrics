@@ -1,0 +1,18 @@
+{
+  "name": "astricon2013",
+  "version": "0.0.1",
+  "description": "Realtime wallboard using websockets + nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "Dan Jenkins",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "express": "~3.3.5",
+    "asterisk-ami": "0.2.0-beta"
+  }
+}
