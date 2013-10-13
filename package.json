@@ -13,6 +13,6 @@
   "dependencies": {
     "socket.io": "~0.9.16",
     "express": "~3.3.5",
-    "asterisk-ami": "0.2.0-beta"
+    "asterisk-ami": "0.2.0-beta1"
   }
 }
